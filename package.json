@@ -1,0 +1,29 @@
+{
+  "name": "primbon-scraper",
+  "version": "0.1.0",
+  "description": "Scrape primbon.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrijoo/Primbon-Scraper.git"
+  },
+  "keywords": [
+    "primbon",
+    "primbon.com",
+    "scraper",
+    "primbon-scraper"
+  ],
+  "author": "izo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrijoo/Primbon-Scraper/issues"
+  },
+  "homepage": "https://github.com/mrijoo/Primbon-Scraper",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
