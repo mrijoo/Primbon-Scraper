@@ -1,10 +1,10 @@
 {
   "name": "primbon-scraper",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Scrape primbon.com",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/mrijoo/Primbon-Scraper",
   "dependencies": {
     "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
   }
 }
