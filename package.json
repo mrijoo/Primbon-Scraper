@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/mrijoo/Primbon-Scraper",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.2.1",
     "cheerio": "^1.0.0-rc.10",
     "request": "^2.88.2"
   }
